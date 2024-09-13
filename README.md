@@ -107,23 +107,3 @@ git push origin your-feature-branch
 
 5. Create a Pull Request
    Open a pull request from your forked repository to the original repository and provide a description of your changes.
-
-## License
-
-This project is open-source and available under the MIT License.
-
-For any questions or additional support, please contact [veendyputra@gmail.com] or open an issue in the repository.
-
-<br/>
-
-### Penjelasan Struktur `README.md`:
-
-1. **Overview**: Menyediakan gambaran umum tentang ebook dan apa yang bisa dipelajari.
-2. **Contents**: Menjelaskan isi ebook dan struktur pembelajaran.
-3. **Getting Started**: Langkah-langkah untuk mengunduh dan memulai dengan ebook serta kode sumber.
-4. **Contributing**: Panduan untuk berkontribusi pada proyek.
-5. **License**: Menyebutkan lisensi proyek dan informasi kontak untuk dukungan lebih lanjut.
-
-README ini memberikan panduan lengkap untuk pengguna ebook, termasuk langkah-langkah awal, bagaimana mengakses sumber daya, dan cara berkontribusi.
-
-<br/>
